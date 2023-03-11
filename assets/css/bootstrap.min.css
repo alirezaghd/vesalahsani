@@ -41,7 +41,7 @@
 }
 
 @media (prefers-reduced-motion:no-preference) {
-     :root {
+    :root {
         scroll-behavior: smooth
     }
 }
